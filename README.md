@@ -1,6 +1,5 @@
 # My-Portfolio-Using-HTML
 
-# My Portfolio Website
 
 This repository contains my personal portfolio website, created to present my skills, projects, achievements, and contact details in a simple and organized way.
 
